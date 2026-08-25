@@ -1,4 +1,5 @@
 # 🛠️ Landing Page - Oficina Mecânica
+![Preview da Landing Page](assets/preview.png)
 
 Landing page moderna e responsiva desenvolvida para uma oficina mecânica. O projeto foi construído do zero, transformando os logotipos e a identidade visual fornecidos pelo cliente em um layout intuitivo focado em conversão.
 
